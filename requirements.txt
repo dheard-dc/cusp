@@ -1,0 +1,5 @@
+fastapi-htmx
+python-dotenv
+uvicorn
+databricks-sql-connector[sqlalchemy]
+sqlalchemy-databricks
